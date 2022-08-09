@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       '<em>Pitch</em> de la propuesta del proyecto multimedia',
     descripcionCurso:
-      'A través de este componente se conocerán diversas herramientas tecnológicas para la realización de una buena propuesta de proyecto multimedia, a partir de textos, gráficos, imágenes, audios y animaciones de interactividad; además, se revisará el cómo realizar una buena estructura narrativa. Todo esto para la realización de un<em>pitch</em> exitoso y su debida exposición.',
+      'A través de este componente se conocerán diversas herramientas tecnológicas para la realización de una buena propuesta de proyecto multimedia, a partir de textos, gráficos, imágenes, audios y animaciones de interactividad; además, se revisará el cómo realizar una buena estructura narrativa. Todo esto para la realización de un <em>pitch</em> exitoso y su debida exposición.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
