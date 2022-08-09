@@ -115,10 +115,10 @@
     .row.justify-content-center
       .col-lg-10
         .row.align-items-center
-          .col-auto
+          .col-lg-2.mb-4
             figure
-              img(src='@/assets/curso/tema2/img7.svg')(data-aos="fade-right")
-          .col
+              img(src='@/assets/curso/tema2/img7.svg').mx-auto(data-aos="fade-right")
+          .col-lg-10
             p(data-aos="fade-left").mb-0 De acuerdo a esta información, quedan plasmadas las tres posibilidades de cómo hacer una excelente sustentación al momento de salir al mercado y exponer la idea de negocio sea cual sea, en busca de posibles patrocinadores e inversionistas.
     Separador
     #t_2_2
@@ -306,7 +306,7 @@
     .row.justify-content-center
       .col-lg-10
         .row.align-items-center
-          .col-auto
+          .col-lg-2.mb-4
             figure
               img(src='@/assets/curso/tema2/img7.svg')(data-aos="fade-right")
           .col

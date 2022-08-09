@@ -53,11 +53,11 @@
               img(src='@/assets/curso/tema1/img7.png')
         .row.justify-content-center
           .col-lg-10
-            .row.align-items-start
-              .col-auto
+            .row.align-items-center.justify-content-center
+              .col-lg-2.mb-4
                 figure
-                  img(src='@/assets/curso/tema1/img3.svg')(data-aos="fade-right")
-              .col
+                  img.mx.auto(src='@/assets/curso/tema1/img3.svg')(data-aos="fade-right")
+              .col-lg-10
                 p.mb-0(data-aos="fade-left")  #[b.txt-color1 Cabe mencionar que hoy en día con el avance tecnológico, son muchas las posibilidades de herramientas que se tienen a disposición para el desarrollo de una presentación multimedia]. #[b Para estas presentaciones normalmente se utilizan una serie de programas muy comunes, como por ejemplo las que se presentan en las figuras 2, 3 y 4]:
     .row.justify-content-center.mb-5
       .col-9.col-lg.mb-4.mb-lg-0
