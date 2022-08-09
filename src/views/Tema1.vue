@@ -62,7 +62,7 @@
     .row.justify-content-center.mb-5
       .col-9.col-lg.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 2]. Power Point
+          p.mb-0 #[b Figura 2]. <em>Power Point</em>
         figure
           img(src='@/assets/curso/tema1/img8.png')
       .col-9.col-lg.mb-4.mb-lg-0
@@ -72,7 +72,7 @@
           img(src='@/assets/curso/tema1/img9.png')
       .col-9.col-lg
         .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 4]. Google Slides
+          p.mb-0 #[b Figura 4]. <em>Google Slides</em>
         figure
           img(src='@/assets/curso/tema1/img10.png')
     .row.align-items-center.mb-5
@@ -96,41 +96,45 @@
             figure
               img(src='@/assets/curso/tema1/img11.png').m-auto
           .col-lg.bg-color3
-            h5 Power Point
-            p Es un programa que pertenece a Microsoft Office, es un muy versátil, con una interfaz amigable y fácil de utilizar, es compatible con varios formatos multimedia y contenidos de alta definición, y la función reproducir en segundo plano, da la posibilidad de reproducir música mientras se reproducen las diapositivas. 
-            p En la actualidad Microsoft ofrece la versión más avanzada en el paquete office 365, que está basado en la nube.
+            h5 <em>Power Point</em>
+            p Es un programa que pertenece a <em>Microsoft Office</em>, es un muy versátil, con una interfaz amigable y fácil de utilizar, es compatible con varios formatos multimedia y contenidos de alta definición, y la función reproducir en segundo plano, da la posibilidad de reproducir música mientras se reproducen las diapositivas. 
+            p En la actualidad <em>Microsoft</em> ofrece la versión más avanzada en el paquete office 365, que está basado en la nube.
             p (El almacenamiento en la nube funciona como una red de servidores de datos conectados que se utilizan colectivamente para compartir tus archivos a través de dispositivos y acceder a ellos).
+            h5 Ejemplo:
+            p Javi@wis.com  => esta es la cuenta de correo del funcionario Javi de la empresa wis (dominio) cuya actividad es comercial (.com) 
+
+
         .row.align-items-center.m-1
           .col-lg-auto.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema1/img12.png').m-auto
           .col-lg.bg-color3
-            h5 Google Slides
-            p Es una herramienta para hacer presentaciones que hace parte del paquete de Google drive, está basado en la web, se requiere crear una cuenta de registro en Google, una vez se realiza el registro se pueden acceder de forma gratuita al servicio. 
+            h5 <em>Google Slides</em>
+            p Es una herramienta para hacer presentaciones que hace parte del paquete de <em>Google drive</em>, está basado en la <em>web</em>, se requiere crear una cuenta de registro en Google, una vez se realiza el registro se pueden acceder de forma gratuita al servicio. 
             p Es una excelente herramienta a la hora de trabajar en grupo con más compañeros desde la nube. Para esto basta con compartir el enlace o vincular los correos electrónicos y estar conectados para realizar el trabajo. 
-            p Tiene una variedad de plantillas y tipografías que funcionan perfectamente para brindar las mejores sensaciones de visuales. como herramienta está al nivel del PowerPoint de Microsoft o el KeyNote de Apple.
+            p Tiene una variedad de plantillas y tipografías que funcionan perfectamente para brindar las mejores sensaciones de visuales. como herramienta está al nivel del PowerPoint de <em>Microsoft</em> o el <em>Keynote</em> de <em>Apple</em>.
         .row.align-items-center.m-1
           .col-lg-auto.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema1/img13.png').m-auto
           .col-lg.bg-color3
-            h5 Prezi
-            p Es una aplicación de presentaciones en línea, esta herramienta utiliza un solo espacio de trabajo en lugar de diapositivas, el espacio o mesa de trabajo permite realizar presentaciones no lineales, tiene una particularidad que se puede aplicar zoom, que permite a los usuarios tener un acercamiento de la zona de presentación, en una zona específica.
+            h5 <em>Prezi</em>
+            p Es una aplicación de presentaciones en línea, esta herramienta utiliza un solo espacio de trabajo en lugar de diapositivas, el espacio o mesa de trabajo permite realizar presentaciones no lineales, tiene una particularidad que se puede aplicar <em>zoom</em>, que permite a los usuarios tener un acercamiento de la zona de presentación, en una zona específica.
             p Para esta aplicación multimedia hay una versión gratis y otras opciones de pago, tiene una interfaz muy interactiva.
         .row.align-items-center.m-1
           .col-lg-auto.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema1/img14.png').m-auto
           .col-lg.bg-color3
-            h5 Glogster
-            p Es una herramienta en la nube, para hacer presentaciones y aprendizaje interactivo. Permite a los estudiantes y profesores, mezclar texto, imágenes, video y audio para crear un cartel interactivo en la web. Ayuda a crear diseños llamativos. Los trabajos diseñados en esta herramienta pueden ser insertados, en una web o blog y ser utilizados en clase, como apoyo de la presentación de determinado contenido. Para su utilización se debe hacer un registro en la web, seguidamente hacer clic en el botón crear nuevo Glog, luego se accede a la interfaz, donde se visualizan una variedad de herramientas de textos, imágenes, opción de grabar video, gráficos por temas, se puede realizar vista previa y guardar.
+            h5 <em>Glogster</em>
+            p Es una herramienta en la nube, para hacer presentaciones y aprendizaje interactivo. Permite a los estudiantes y profesores, mezclar texto, imágenes, video y audio para crear un cartel interactivo en la <em>web</em>. Ayuda a crear diseños llamativos. Los trabajos diseñados en esta herramienta pueden ser insertados, en una <em>web</em> o blog y ser utilizados en clase, como apoyo de la presentación de determinado contenido. Para su utilización se debe hacer un registro en la <em>web</em>, seguidamente hacer clic en el botón crear nuevo <em>glog</em>, luego se accede a la interfaz, donde se visualizan una variedad de herramientas de textos, imágenes, opción de grabar video, gráficos por temas, se puede realizar vista previa y guardar.
         .row.align-items-center.m-1
           .col-lg-auto.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/tema1/img15.png').m-auto
           .col-lg.bg-color3
-            h5 Keynote
-            p Es la aplicación de Apple para realizar presentaciones digitales, es una de las herramientas más conocidas en el mercado, lo interesante de esta herramienta es su facilidad de uso. Su estructura, tiene compatibilidad con PowerPoint, tiene conectividad con otros dispositivos de Apple, ofrece transiciones y diseño de diapositivas 3D, y brinda la posibilidad de exportar a varios formatos (PDF, HTML, JPG, entre otros).
+            h5 <em>Keynote</em>
+            p Es la aplicación de <em>Apple</em> para realizar presentaciones digitales, es una de las herramientas más conocidas en el mercado, lo interesante de esta herramienta es su facilidad de uso. Su estructura, tiene compatibilidad con PowerPoint, tiene conectividad con otros dispositivos de <em>Apple</em>, ofrece transiciones y diseño de diapositivas 3D, y brinda la posibilidad de exportar a varios formatos (PDF, HTML, JPG, entre otros).
     Separador
     #t_1_2
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
@@ -212,6 +216,7 @@
         figure
           img(src='@/assets/curso/tema1/img17.png')(data-aos="fade-left")
     p Las estructuras narrativas hacen parte de la narración, la cual se fundamenta en los diversos momentos de nuestras vidas, debido a que se refiere a la forma como los seres humanos se comunican, dado que siempre al manifestar algo, parte de una sucesión de hechos, acciones y personajes. Esta narración se puede hacer de forma verbal, escrita, gráfica, gestual, corporal, entre otras.
+    p A continuación se conocerán que son los textos narrativos y como se enlazan con las estructuras narrativas, ver figura 6:
     Separador
     #t_1_3
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
@@ -226,7 +231,8 @@
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Narrativa lineal") Es la que muestra los hechos de manera cronológica, generalmente comienza con una introducción, después el desarrollo y por último el desenlace.
           p(numero="2" titulo="Narrativa no lineal") Es la que puede contar los hechos cambiando el tiempo, es decir puede comenzar por el pasado o el futuro para comentar la historia.
-          p(numero="3" titulo="Narrativa circular") Es la que puede contar los hechos cambiando el tiempo, es decir puede comenzar por el pasado o el futuro para comentar la historia.
+          p(numero="3" titulo="Narrativa circular") En la estructura narrativa circular la historia inicia con la misma acción con la que termina.<br>Por ello, en esta estructura narrativa suele usarse el recurso literario de la repetición.
+
           p(numero="4" titulo="Narrativa interactiva") La estructura interactiva es la que deja al lector realizar su historia propia con el final que él quiera.<br>Así, transforma la literatura en un juego de interacción en el que la historia se desarrolla según la decisión del lector.
     .row.mb-5
       .col-12.bg-color5.p-4

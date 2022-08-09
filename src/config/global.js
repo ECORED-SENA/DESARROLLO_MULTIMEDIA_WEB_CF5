@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       '<em>Pitch</em> de la propuesta del proyecto multimedia',
     descripcionCurso:
-      'A través de este componente se conocerán diversas herramientas tecnológicas para la realización de una buena propuesta de proyecto multimedia, a partir de textos, gráficos, imágenes, audios y animaciones de interactividad.<br>También se revisará el cómo realizar una buena estructura narrativa que es el cuerpo que soporta nuestra narración, y es indispensable a la hora de contar buenas historias. Todo esto para la realización de un <em>pitch</em> exitoso y su debida exposición, donde se presentará esa idea de negocio, producto o servicio a un posible grupo de inversores, patrocinadores o clientes.',
+      'A través de este componente se conocerán diversas herramientas tecnológicas para la realización de una buena propuesta de proyecto multimedia, a partir de textos, gráficos, imágenes, audios y animaciones de interactividad; además, se revisará el cómo realizar una buena estructura narrativa. Todo esto para la realización de un<em>pitch</em> exitoso y su debida exposición.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -153,7 +153,8 @@ export default {
     },
     {
       tema: 'Herramientas tecnológicas y narrativas',
-      referencia: 'Uría, m. (2015). Tutorial ¿cómo trabajar con glogster?.',
+      referencia:
+        'Uría, m. (2015). Tutorial ¿cómo trabajar con <em>glogster</em>?.',
       tipo: 'Video.',
       link: 'https://www.youtube.com/watch?v=T-aIejCeUQA',
     },
@@ -202,7 +203,7 @@ export default {
     {
       termino: 'Almacenamiento en la nube',
       significado:
-        'El almacenamiento en la nube funciona como una red de servidores de datos conectados que se utilizan colectivamente para compartir tus archivos a través de dispositivos y acceder a ellos. Ejemplos: Google Drive, Office 365, Dropbox, etc.',
+        'El almacenamiento en la nube funciona como una red de servidores de datos conectados que se utilizan colectivamente para compartir tus archivos a través de dispositivos y acceder a ellos. Ejemplos: <em>Google drive, Office 365, Dropbox</em>, etc.',
     },
     {
       termino: 'Base de datos',
@@ -289,7 +290,7 @@ export default {
     },
     {
       referencia:
-        'Glogster. (2021). Cómo funciona Glogster Vea nuestros usos principales, con sencillos pasos para crear su propio póster multimedia.',
+        '<em>Glogster</em>. (2021). Cómo funciona <em>Glogster</em> Vea nuestros usos principales, con sencillos pasos para crear su propio póster multimedia.',
       link: 'https://edu.glogster.com/',
     },
     {
@@ -320,7 +321,7 @@ export default {
     },
     {
       referencia:
-        'Support.apple.com. (2021). Manual del usuario de Keynote para Mac',
+        'Support.apple.com. (2021). Manual del usuario de <em>Keynote</em> para Mac',
       link: 'https://support.apple.com/es-cl/guide/keynote/welcome/mac ',
     },
     {
@@ -465,7 +466,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
