@@ -2,21 +2,21 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-botones
+    .titulo-principal.color-acento-botones(data-aos="fade-right") 
       .titulo-principal__numero
         span 1
       h1 Herramientas tecnológicas y narrativas
     .row.align-items-start
       .col-auto
         figure
-          img(src='@/assets/curso/tema1/img1.svg')
+          img(src='@/assets/curso/tema1/img1.svg')(data-aos="fade-right")
       .col
         p.mb-0 #[b Gracias a un buen uso de las herramientas tecnológicas y narrativas, se puede hacer una correcta construcción de cualquier discurso o mensaje que se desee transmitir]. A partir del conociendo de las herramientas, estructuras narrativas, tipos de textos que se pueden realizar y cómo construir un guion multimedia #[b.txt-color1 se tendrán las herramientas suficientes para poder avanzar en el objetivo de poder transmitir y vender las ideas y argumentos con éxito].
     Separador
     #t_1_1
-    .titulo-segundo.color-acento-botones
+    .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.1 Herramientas tecnológicas para presentaciones
-    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5 
+    .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5(data-aos="fade-right") 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
@@ -32,7 +32,7 @@
           .col-auto.bg-color2.p-2.ms-2
             p.mb-0 #[b.text-white Las herramientas tecnológicas de presentaciones]
         p.mb-5 #[b Están diseñadas a partir de textos, gráficos, imágenes, audios y animaciones de interactividad que se presentan usualmente en diapositivas].
-        .row.mb-5
+        .row.mb-5(data-aos="fade-right") 
           .col-6.col-lg
             figure
               img(src='@/assets/curso/tema1/img2.png')
@@ -56,9 +56,9 @@
             .row.align-items-start
               .col-auto
                 figure
-                  img(src='@/assets/curso/tema1/img3.svg')
+                  img(src='@/assets/curso/tema1/img3.svg')(data-aos="fade-right")
               .col
-                p.mb-0 #[b.txt-color1 Cabe mencionar que hoy en día con el avance tecnológico, son muchas las posibilidades de herramientas que se tienen a disposición para el desarrollo de una presentación multimedia]. #[b Para estas presentaciones normalmente se utilizan una serie de programas muy comunes, como por ejemplo las que se presentan en las figuras 2, 3 y 4]:
+                p.mb-0(data-aos="fade-left")  #[b.txt-color1 Cabe mencionar que hoy en día con el avance tecnológico, son muchas las posibilidades de herramientas que se tienen a disposición para el desarrollo de una presentación multimedia]. #[b Para estas presentaciones normalmente se utilizan una serie de programas muy comunes, como por ejemplo las que se presentan en las figuras 2, 3 y 4]:
     .row.justify-content-center.mb-5
       .col-9.col-lg.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-4
@@ -82,7 +82,7 @@
       .col
         p.mb-0 #[b ¡Sé proactivo en cada fase del aprendizaje!]
     .bloque-texto-a.color-primario.p-4.p-md-4.mb-5 
-      .row.m-0.align-items-center.justify-content-between
+      .row.m-0.align-items-center.justify-content-between(data-aos="fade-right") 
         .col-lg-auto.mb-4.mb-lg-0
           figure
             img(src='@/assets/curso/tema1/img5.svg', style="width:100px").m-auto
@@ -133,12 +133,12 @@
             p Es la aplicación de Apple para realizar presentaciones digitales, es una de las herramientas más conocidas en el mercado, lo interesante de esta herramienta es su facilidad de uso. Su estructura, tiene compatibilidad con PowerPoint, tiene conectividad con otros dispositivos de Apple, ofrece transiciones y diseño de diapositivas 3D, y brinda la posibilidad de exportar a varios formatos (PDF, HTML, JPG, entre otros).
     Separador
     #t_1_2
-    .titulo-segundo.color-acento-botones
+    .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.2 Estructuras narrativas para el guion de la presentación
     .row.align-items-center.mb-5
       .col-lg.mb-4.mb-lg-0
-        p.mb-0 La estructura narrativa es el cuerpo que soporta la narración. La estructura narrativa con principio, medio y final, también definida como planteamiento, nudo y desenlace es algo diseñado con el objetivo de narrar o comunicar algo con coherencia. En otros términos, un texto narrativo es una descripción en el cual se cuenta una historia que ocurre en un lugar y tiempo concreto, esta historia puede ser real o ficticia.
-      .col-lg-auto
+        p(data-aos="fade-right").mb-0 La estructura narrativa es el cuerpo que soporta la narración. La estructura narrativa con principio, medio y final, también definida como planteamiento, nudo y desenlace es algo diseñado con el objetivo de narrar o comunicar algo con coherencia. En otros términos, un texto narrativo es una descripción en el cual se cuenta una historia que ocurre en un lugar y tiempo concreto, esta historia puede ser real o ficticia.
+      .col-lg-auto(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img7.svg').m-auto
     .row.justify-content-center.mb-5
@@ -149,7 +149,7 @@
           img(src='@/assets/curso/tema1/img8.svg')
     .row.mb-5
       .col-12.bg-color4.p-4
-        .row.align-items-start
+        .row.align-items-start(data-aos="fade-right")
           .col-auto
             figure
               img(src='@/assets/curso/tema1/img9.svg')
@@ -163,13 +163,13 @@
         .row.align-items-start.mb-4
           .col-auto
             figure
-              img(src='@/assets/curso/tema1/img10.svg')
+              img(src='@/assets/curso/tema1/img10.svg')(data-aos="fade-right")
           .col
-            p.mb-0 Según la narrativa multimedia se pueden implementar otros lenguajes distintos a lo literario, como música e imagen que son, de alguna manera, literaturizados. Por este motivo, #[b Hernández (2014)] indica #[b “Las imágenes tienen un papel fundamental en la textualidad digital. Aquí, lo metaverbal, un atributo de los textos verbales que evoca las imágenes, y lo metavisual, un atributo de las imágenes que se refleja en la naturaleza incompleta de las representaciones visuales, como señalábamos antes, se complementan. Descripción y narración se alternan para capturar la atención”] (p. 214).
+            p(data-aos="fade-left").mb-0 Según la narrativa multimedia se pueden implementar otros lenguajes distintos a lo literario, como música e imagen que son, de alguna manera, literaturizados. Por este motivo, #[b Hernández (2014)] indica #[b “Las imágenes tienen un papel fundamental en la textualidad digital. Aquí, lo metaverbal, un atributo de los textos verbales que evoca las imágenes, y lo metavisual, un atributo de las imágenes que se refleja en la naturaleza incompleta de las representaciones visuales, como señalábamos antes, se complementan. Descripción y narración se alternan para capturar la atención”] (p. 214).
         .cajon.color-primario.p-4
           p.mb-0 Los Planos narrativos que contarán, a su vez, desde otras perspectivas, #[b.txt-color1 “donde la incorporación de la multimedia a la literatura debe ser entendida como la evolución necesaria de la posmodernidad literaria”]. #[b (Vouillamoz, 2000, p. 32 citado por Chiape, 2005)]. No se trata, pues, del simple enriquecimiento ni de una sustitución, se trata de contar historias de una manera a la que no está acostumbrado el consumidor habitual de literatura.
     .row.mb-5
-      .col-lg.mb-4.mb-lg-0
+      .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-4 #[b Sabiendo lo anterior, se pueden conocer los tipos de estructuras narrativas:]
         ul.lista-ul--color.lista-ul--separador
           li 
@@ -210,19 +210,19 @@
             p.mb-0 #[b Poesía]: narración de hechos legendarios reales o ficticios.
       .col-lg-auto
         figure
-          img(src='@/assets/curso/tema1/img17.png')
+          img(src='@/assets/curso/tema1/img17.png')(data-aos="fade-left")
     p Las estructuras narrativas hacen parte de la narración, la cual se fundamenta en los diversos momentos de nuestras vidas, debido a que se refiere a la forma como los seres humanos se comunican, dado que siempre al manifestar algo, parte de una sucesión de hechos, acciones y personajes. Esta narración se puede hacer de forma verbal, escrita, gráfica, gestual, corporal, entre otras.
     Separador
     #t_1_3
-    .titulo-segundo.color-acento-botones
+    .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.3 Textos narrativos
     .dual-txt-deco.mb-5
       p(style="position: relative; z-index: 1;") Los textos narrativos son descripciones en las cuales se cuentan historias que ocurre en un lugares y tiempos concretos, estas historias pueden ser reales o ficticias. Existen diversos tipos de textos narrativos, en esta ocasión se conocerán los siguientes:
     .row.align-items-center.mb-5
       .col-lg-auto.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema1/img18.png')
-      .col-lg
+          img(src='@/assets/curso/tema1/img18.png')(data-aos="fade-right")
+      .col-lg(data-aos="fade-right")
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Narrativa lineal") Es la que muestra los hechos de manera cronológica, generalmente comienza con una introducción, después el desarrollo y por último el desenlace.
           p(numero="2" titulo="Narrativa no lineal") Es la que puede contar los hechos cambiando el tiempo, es decir puede comenzar por el pasado o el futuro para comentar la historia.
@@ -242,13 +242,13 @@
       img(src='@/assets/curso/tema1/img12.svg')
     Separador
     #t_1_4
-    .titulo-segundo.color-acento-botones
+    .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.4 Guión de multimedia
     .row.align-items-center.mb-5
       .col-lg-auto.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema1/img13.svg')
-      .col-lg
+          img(src='@/assets/curso/tema1/img13.svg')(data-aos="fade-right")
+      .col-lg(data-aos="fade-left")
         p #[b Es una herramienta diseñada para permitir una o varias formas de trabajo, a través de la unión de formas de contenido como textos, sonido, imagen, animación y video]. Es un documento escrito que posee una descripción de todas y cada una de las escenas del producto. Al igual que en el guion “clásico” #[b.txt-color1 el guion para una presentación multimedia es el documento importante para su desarrollo].
         p #[b Los principios generales para la construcción del guion multimedia son:]
     TabsC.color-acento-botones.mb-5
@@ -288,11 +288,11 @@
     .row.align-items-center.mb-5
       .col-lg-auto.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema1/img23.svg')
+          img(src='@/assets/curso/tema1/img23.svg')(data-aos="fade-right")
       .col-lg
         .tarjeta.tarjeta--gris1.p-4
           SlyderA(tipo="b")
-            .row.align-items-center.m-1
+            .row.align-items-center.m-1(data-aos="fade-left")
               .col-lg
                 h4 Idea
                 p Es el objetivo principal en su creación, debe ser fácil, en un lenguaje sencillo.
@@ -319,7 +319,7 @@
                 p Es un elemento visual que ayuda a plasmar el boceto del guion, es una visualización del guio técnico en forma viñetas. La función es plasmar el diseño gráfico y sus contenidos.
               .col-lg-auto
                 figure
-                  img(src='@/assets/curso/tema1/img22.svg')
+                  img(src='@/assets/curso/tema1/img22.svg')(data-aos="fade-right")
     .row.mb-5
       .col-lg.mb-4.mb-lg-0
         p.mb-4 Según la narrativa digital definida por Bernard Robin, 1993 pionero en el desarrollo de contenidos digitales y educativos de la Universidad de Houston desde 1993, la narrativa digital es, #[b “en su esencia más básica, la idea de combinar el arte de contar historias con una variedad de la tecnología digital multimedia, como imágenes, audio y vídeo”] #[span.txt-color2 (Robin, 2006, p 709)].
@@ -331,7 +331,7 @@
     .row.align-items-start
       .col-auto
         figure
-          img(src='@/assets/curso/tema1/img24.svg')
+          img(src='@/assets/curso/tema1/img24.svg')(data-aos="fade-right")
       .col
         p.mb-0 #[b La comunicación ha cambiado y la modernidad trae consigo nuevas formas de comunicar, ya no se habla del emisor, transmisor y receptor, ahora se habla del medio que se usa para transmitir la información]. La oralidad ha ido ocupando un lugar en la memoria, pero la cultura sigue provocando cada día, que se busque más información y esa información está en los nuevos medios.
       
