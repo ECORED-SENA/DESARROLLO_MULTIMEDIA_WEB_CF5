@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 0%
+    right: 10%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 0%
+    right: 50%
 
 
 @keyframes float1
@@ -17,3 +17,137 @@
 
   100%
     transform: translateY(0px)
+
+.bloque-texto-a.color-secundario
+  background-color: #F6F6F6
+
+.bloque-texto-a.color-secundario::before
+  background-color: #CBDEF4
+
+.bloque-texto-a.color-primario
+  background-color: #E8E8E8
+
+.bloque-texto-a.color-primario::before
+  background-color: #CBDEF4
+
+.tarjeta.tarjeta--azul
+  background-image: url(../assets/curso/tema1/img6.svg)
+  background-color: white
+  background-size: cover
+
+.tarjeta.tarjeta--gris1
+  background-image: url(../assets/curso/tema1/img18.svg)
+  background-color: white
+  background-size: cover
+
+.tarjeta.tarjeta--gris2
+  background-color: #F6F6F6
+
+.tarjeta.tarjeta--gris2.acordion__activo
+  background-color: #EBEBEB
+
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #1565C0
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #1565C0
+
+.slyder-a__bullets__item
+  background-color: #636363
+
+.slyder-a__bullets__item--active
+  background-color: #FB8C00
+
+.cajon.color-primario
+  background-color: #F4F7FF
+
+.cajon.color-primario::before
+  background-color: #B0C0D2
+
+.dual-txt-deco
+  position: relative
+  &::after
+    content: ""
+    position: absolute
+    top: 25px
+    left: -10px
+    width: 60%
+    height: 44%
+    background-color: #B2EBF2
+    z-index: 0
+  p 
+    position: relative
+    z-index: 1
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FB8C00
+  span
+    color: #12263F
+
+.tabs-c
+  border-bottom: 5px solid #AFAFAF
+
+.cajon.color-secundario
+  background-color: #CBDEF4
+
+.cajon.color-secundario::before
+  background-color: #12263F
+
+.pasos-a.color-acento-botones .pasos-a__circle
+  background-color: #26AAB7
+
+.tarjeta.color-primario
+  background-color: #1565C0
+  p, h3, i
+    color: #FFF
+
+.bg-color1
+  background-image: url(../assets/curso/tema1/img2.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-position-y: 120px
+
+.bg-color2
+  background-color: #1565C0
+
+.bg-color3
+  border-left: 2px dashed #9C9C9C
+
+.bg-color4
+  background-color: #FFFAE7
+
+.bg-color5
+  background-color: #CBDDF4
+
+.bg-color6
+  background-color: #F3F9FF
+  border-radius: 15px
+  margin: 10px
+
+.bg-color7
+  background-color: #FFFAE7
+  border-radius: 15px
+  margin: 10px
+
+.bg-color8
+  background-color: #E8E8E8
+  border-radius: 15px
+  margin: 10px
+
+.txt-color1
+  color: #FB8C00
+
+.txt-color2
+  color: #1565C0
+
+@media screen and ( max-width: 992px )
+
+  .bg-color3
+    border-left: 0px
+
+  .dual-txt-deco
+    &::after
+      top: 75px
+      left: -10px
+      width: 60%
+      height: 50%

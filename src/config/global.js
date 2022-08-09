@@ -1,9 +1,11 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo:
+      '<em>Pitch</em> de la propuesta del proyecto multimedia',
+    descripcionCurso:
+      'A través de este componente se conocerán diversas herramientas tecnológicas para la realización de una buena propuesta de proyecto multimedia, a partir de textos, gráficos, imágenes, audios y animaciones de interactividad.<br>También se revisará el cómo realizar una buena estructura narrativa que es el cuerpo que soporta nuestra narración, y es indispensable a la hora de contar buenas historias. Todo esto para la realización de un pitch exitoso y su debida exposición, donde se presentará esa idea de negocio, producto o servicio a un posible grupo de inversores, patrocinadores o clientes.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -32,14 +34,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Herramientas tecnológicas y narrativas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Herramientas tecnológicas para presentaciones',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Estructuras narrativas para el guion de la presentación',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Textos narrativos',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Guion de multimedia',
+            hash: 't_1_4',
           },
         ],
       },
@@ -48,15 +68,42 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Técnicas de presentación del <em>pitch</em>',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Tipos de <em>pitch</em>',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Técnicas de presentación verbal y no verbal',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo:
+              '¿Cómo se proyecta un pitch empleando técnicas verbal y no verbal?',
+            hash: 't_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo: 'Presentación, formatos y estructura de un <em>pitch</em>',
+            hash: 't_2_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo:
+              '¿Qué no se debe hacer al momento de exponer un <em>pitch</em>?',
+            hash: 't_2_5',
+          },
+        ],
       },
     ],
     subMenu: [

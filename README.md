@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **<em>Pitch</em> de la propuesta del proyecto multimedia**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF5/](https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF5/)
 
 #
 
