@@ -54,27 +54,33 @@
         .row.justify-content-center
           .col-lg-10
             .row.align-items-center.justify-content-center
-              .col-lg-2.mb-4
+              .col-lg-2.mb-4(data-aos="fade-right")
                 figure
-                  img.mx.auto(src='@/assets/curso/tema1/img3.svg')(data-aos="fade-right")
+                  img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
               .col-lg-10
                 p.mb-0(data-aos="fade-left")  #[b.txt-color1 Cabe mencionar que hoy en día con el avance tecnológico, son muchas las posibilidades de herramientas que se tienen a disposición para el desarrollo de una presentación multimedia]. #[b Para estas presentaciones normalmente se utilizan una serie de programas muy comunes, como por ejemplo las que se presentan en las figuras 2, 3 y 4]:
-    .row.justify-content-center.mb-5
-      .col-9.col-lg.mb-4.mb-lg-0
+    .row.align-items-center.justify-content-center(data-aos="fade-left").mb-5
+      .col-12.col-lg-4.mb-3
         .titulo-sexto.color-acento-contenido.mb-4
           p.mb-0 #[b Figura 2]. <em>Power Point</em>
-        figure
-          img(src='@/assets/curso/tema1/img8.png')
-      .col-9.col-lg.mb-4.mb-lg-0
+        div.p-5.bg-color10.shadow.h-100
+          figure.justify-center.mb-5
+            img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
+          h4.text-center POWER POINT
+      .col-12.col-lg-4.mb-2
         .titulo-sexto.color-acento-contenido.mb-4
           p.mb-0 #[b Figura 3]. Google Docs
-        figure
-          img(src='@/assets/curso/tema1/img9.png')
-      .col-9.col-lg
-        .titulo-sexto.color-acento-contenido.mb-4
+        div.p-4.bg-color10.shadow.h-100
+          figure.justify-center.mb-4
+            img(src='@/assets/curso/tema1/img9.png', alt='Texto que describa la imagen')
+          h4.text-center GOOGLE DOCS PRESENTATION
+      .col-12.col-lg-4.mb-2
+        .titulo-sexto.color-acento-contenido.mb-4.ps-5
           p.mb-0 #[b Figura 4]. <em>Google Slides</em>
-        figure
-          img(src='@/assets/curso/tema1/img10.png')
+        div.p-4.bg-color10.shadow.h-100
+          figure.justify-center.mb-5
+            img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
+          h4.text-center GOOGLE SLIDES
     .row.align-items-center.mb-5
       .col-auto
         figure
@@ -223,25 +229,26 @@
       h2 1.3 Textos narrativos
     .dual-txt-deco.mb-5
       p(style="position: relative; z-index: 1;") Los textos narrativos son descripciones en las cuales se cuentan historias que ocurre en un lugares y tiempos concretos, estas historias pueden ser reales o ficticias. Existen diversos tipos de textos narrativos, en esta ocasión se conocerán los siguientes:
-    .row.align-items-center.mb-5
-      .col-lg-auto.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img18.png')(data-aos="fade-right")
-      .col-lg(data-aos="fade-right")
-        LineaTiempoD.color-secundario
-          p(numero="1" titulo="Narrativa lineal") Es la que muestra los hechos de manera cronológica, generalmente comienza con una introducción, después el desarrollo y por último el desenlace.
-          p(numero="2" titulo="Narrativa no lineal") Es la que puede contar los hechos cambiando el tiempo, es decir puede comenzar por el pasado o el futuro para comentar la historia.
-          p(numero="3" titulo="Narrativa circular") En la estructura narrativa circular la historia inicia con la misma acción con la que termina.<br>Por ello, en esta estructura narrativa suele usarse el recurso literario de la repetición.
+    .bg4
+      .row.align-items-center.mb-5
+        .col-lg-auto.mb-4.mb-lg-0
+          figure
+            img(src='@/assets/curso/tema1/img18.png')(data-aos="fade-right")
+        .col-lg(data-aos="fade-right")
+          LineaTiempoD.color-secundario
+            p(numero="1" titulo="Narrativa lineal") Es la que muestra los hechos de manera cronológica, generalmente comienza con una introducción, después el desarrollo y por último el desenlace.
+            p(numero="2" titulo="Narrativa no lineal") Es la que puede contar los hechos cambiando el tiempo, es decir puede comenzar por el pasado o el futuro para comentar la historia.
+            p(numero="3" titulo="Narrativa circular") En la estructura narrativa circular la historia inicia con la misma acción con la que termina.<br>Por ello, en esta estructura narrativa suele usarse el recurso literario de la repetición.
 
-          p(numero="4" titulo="Narrativa interactiva") La estructura interactiva es la que deja al lector realizar su historia propia con el final que él quiera.<br>Así, transforma la literatura en un juego de interacción en el que la historia se desarrolla según la decisión del lector.
-    .row.mb-5
-      .col-12.bg-color5.p-4
-        .row.align-items-start
-          .col-auto
-            figure
-              img(src='@/assets/curso/tema1/img11.svg')
-          .col
-            p.mb-0 El género narrativo posee una estructura con características específicas, las cuales le dan determinación a la sucesión de los hechos. A continuación en la figura 7 se muestra cómo está organizada la estructura:
+            p(numero="4" titulo="Narrativa interactiva") La estructura interactiva es la que deja al lector realizar su historia propia con el final que él quiera.<br>Así, transforma la literatura en un juego de interacción en el que la historia se desarrolla según la decisión del lector.
+      .row.mb-5
+        .col-12.bg-color5.p-4
+          .row.align-items-start
+            .col-auto
+              figure
+                img(src='@/assets/curso/tema1/img11.svg')
+            .col
+              p.mb-0 El género narrativo posee una estructura con características específicas, las cuales le dan determinación a la sucesión de los hechos. A continuación en la figura 7 se muestra cómo está organizada la estructura:
     .titulo-sexto.color-acento-contenido.mb-5
       p.mb-0 #[b Figura 6]. Estructura narrativa
     figure
@@ -250,96 +257,97 @@
     #t_1_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.4 Guión de multimedia
-    .row.align-items-center.mb-5
-      .col-lg-auto.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img13.svg')(data-aos="fade-right")
-      .col-lg(data-aos="fade-left")
-        p #[b Es una herramienta diseñada para permitir una o varias formas de trabajo, a través de la unión de formas de contenido como textos, sonido, imagen, animación y video]. Es un documento escrito que posee una descripción de todas y cada una de las escenas del producto. Al igual que en el guion “clásico” #[b.txt-color1 el guion para una presentación multimedia es el documento importante para su desarrollo].
-        p #[b Los principios generales para la construcción del guion multimedia son:]
-    TabsC.color-acento-botones.mb-5
-      .py-3.py-md-4(titulo="Organización")
-        .row.align-items-center.justify-content-center
-          .col-lg-5.mb-4.mb-lg-0
-            h4 Organización
-            p En este punto es importante organizar la información de manera fácil, entendible y puntual.
-          .col-lg-5
-            figure
-              img(src='@/assets/curso/tema1/img14.svg', style="width:350px").m-auto
-      .py-3.py-md-4(titulo="Integración")
-        .row.align-items-center.justify-content-center
-          .col-lg-5.mb-4.mb-lg-0
-            h4 Integración
-            p La unión de formas como textos, imágenes, sonidos, animaciones, deben tener la misma importancia en su elaboración, esto ayudara a una mejor persuasión.
-          .col-lg-5
-            figure
-              img(src='@/assets/curso/tema1/img15.svg', style="width:250px").m-auto
-      .py-3.py-md-4(titulo="Narración")
-        .row.align-items-center.justify-content-center
-          .col-lg-5.mb-4.mb-lg-0
-            h4 Narración
-            p Incorporar el contenido a partir de una historia, la descripción de una situación real o cotidiana, ayuda a persuadir más a despertar sensaciones emotivas que generen interés en la presentación multimedia. Aquí entra a jugar un papel importante la estructura y textos narrativos.
-          .col-lg-5
-            figure
-              img(src='@/assets/curso/tema1/img16.svg', style="width:350px").m-auto
-      .py-3.py-md-4(titulo="El ritmo")
-        .row.align-items-center.justify-content-center
-          .col-lg-5.mb-4.mb-lg-0
-            h4 El ritmo
-            p Se debe ser preciso y concreto, en todo y cada uno de los elementos que componen la multimedia.
-          .col-lg-5
-            figure
-              img(src='@/assets/curso/tema1/img17.svg', style="width:350px").m-auto
-    h4.mb-4 Fases del proceso:
-    .row.align-items-center.mb-5
-      .col-lg-auto.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img23.svg')(data-aos="fade-right")
-      .col-lg
-        .tarjeta.tarjeta--gris1.p-4
-          SlyderA(tipo="b")
-            .row.align-items-center.m-1(data-aos="fade-left")
-              .col-lg
-                h4 Idea
-                p Es el objetivo principal en su creación, debe ser fácil, en un lenguaje sencillo.
-              .col-lg-auto
-                figure
-                  img(src='@/assets/curso/tema1/img19.svg')
-            .row.align-items-center.m-1
-              .col-lg
-                h4 Resumen
-                p Es la construcción de la idea más extensa que la idea, aquí se describen los temas más específicos.
-              .col-lg-auto
-                figure
-                  img(src='@/assets/curso/tema1/img20.svg')
-            .row.align-items-center.m-1
-              .col-lg
-                h4 Presentación
-                p Explica con detalle el contenido.
-              .col-lg-auto
-                figure
-                  img(src='@/assets/curso/tema1/img21.svg')
-            .row.align-items-center.m-1
-              .col-lg
-                h4 Storyboard
-                p Es un elemento visual que ayuda a plasmar el boceto del guion, es una visualización del guio técnico en forma viñetas. La función es plasmar el diseño gráfico y sus contenidos.
-              .col-lg-auto
-                figure
-                  img(src='@/assets/curso/tema1/img22.svg')(data-aos="fade-right")
-    .row.mb-5
-      .col-lg.mb-4.mb-lg-0
-        p.mb-4 Según la narrativa digital definida por Bernard Robin, 1993 pionero en el desarrollo de contenidos digitales y educativos de la Universidad de Houston desde 1993, la narrativa digital es, #[b “en su esencia más básica, la idea de combinar el arte de contar historias con una variedad de la tecnología digital multimedia, como imágenes, audio y vídeo”] #[span.txt-color2 (Robin, 2006, p 709)].
-        .cajon.color-secundario.p-4
-          p.mb-0 Así mismo, el carácter comunicativo de las historias se afianza al utilizar un recurso tecnológico que permita su difusión, #[b permitiendo o favoreciendo que esas historias unan, el entendimiento mutuo, la empatía y la comunicación].
-      .col-lg-auto
-        figure
-          img(src='@/assets/curso/tema1/img19.png')
-    .row.align-items-start
-      .col-auto
-        figure
-          img(src='@/assets/curso/tema1/img24.svg')(data-aos="fade-right")
-      .col
-        p.mb-0 #[b La comunicación ha cambiado y la modernidad trae consigo nuevas formas de comunicar, ya no se habla del emisor, transmisor y receptor, ahora se habla del medio que se usa para transmitir la información]. La oralidad ha ido ocupando un lugar en la memoria, pero la cultura sigue provocando cada día, que se busque más información y esa información está en los nuevos medios.
+    .bg5
+      .row.align-items-center.mb-5.bg-color9
+        .col-lg-auto.mb-4.mb-lg-0
+          figure
+            img(src='@/assets/curso/tema1/img13.svg')(data-aos="fade-right")
+        .col-lg(data-aos="fade-left")
+          p #[b Es una herramienta diseñada para permitir una o varias formas de trabajo, a través de la unión de formas de contenido como textos, sonido, imagen, animación y video]. Es un documento escrito que posee una descripción de todas y cada una de las escenas del producto. Al igual que en el guion “clásico” #[b.txt-color1 el guion para una presentación multimedia es el documento importante para su desarrollo].
+          p #[b Los principios generales para la construcción del guion multimedia son:]
+      TabsC.color-acento-botones.mb-5
+        .py-3.py-md-4(titulo="Organización")
+          .row.align-items-center.justify-content-center
+            .col-lg-5.mb-4.mb-lg-0
+              h4 Organización
+              p En este punto es importante organizar la información de manera fácil, entendible y puntual.
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/tema1/img14.svg', style="width:350px").m-auto
+        .py-3.py-md-4(titulo="Integración")
+          .row.align-items-center.justify-content-center
+            .col-lg-5.mb-4.mb-lg-0
+              h4 Integración
+              p La unión de formas como textos, imágenes, sonidos, animaciones, deben tener la misma importancia en su elaboración, esto ayudara a una mejor persuasión.
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/tema1/img15.svg', style="width:250px").m-auto
+        .py-3.py-md-4(titulo="Narración")
+          .row.align-items-center.justify-content-center
+            .col-lg-5.mb-4.mb-lg-0
+              h4 Narración
+              p Incorporar el contenido a partir de una historia, la descripción de una situación real o cotidiana, ayuda a persuadir más a despertar sensaciones emotivas que generen interés en la presentación multimedia. Aquí entra a jugar un papel importante la estructura y textos narrativos.
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/tema1/img16.svg', style="width:350px").m-auto
+        .py-3.py-md-4(titulo="El ritmo")
+          .row.align-items-center.justify-content-center
+            .col-lg-5.mb-4.mb-lg-0
+              h4 El ritmo
+              p Se debe ser preciso y concreto, en todo y cada uno de los elementos que componen la multimedia.
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/tema1/img17.svg', style="width:350px").m-auto
+      h4.mb-4 Fases del proceso:
+      .row.align-items-center.mb-5
+        .col-lg-auto.mb-4.mb-lg-0
+          figure
+            img(src='@/assets/curso/tema1/img23.svg')(data-aos="fade-right")
+        .col-lg
+          .tarjeta.tarjeta--gris1.p-4
+            SlyderA(tipo="b")
+              .row.align-items-center.m-1(data-aos="fade-left")
+                .col-lg
+                  h4 Idea
+                  p Es el objetivo principal en su creación, debe ser fácil, en un lenguaje sencillo.
+                .col-lg-auto
+                  figure
+                    img(src='@/assets/curso/tema1/img19.svg')
+              .row.align-items-center.m-1
+                .col-lg
+                  h4 Resumen
+                  p Es la construcción de la idea más extensa que la idea, aquí se describen los temas más específicos.
+                .col-lg-auto
+                  figure
+                    img(src='@/assets/curso/tema1/img20.svg')
+              .row.align-items-center.m-1
+                .col-lg
+                  h4 Presentación
+                  p Explica con detalle el contenido.
+                .col-lg-auto
+                  figure
+                    img(src='@/assets/curso/tema1/img21.svg')
+              .row.align-items-center.m-1
+                .col-lg
+                  h4 Storyboard
+                  p Es un elemento visual que ayuda a plasmar el boceto del guion, es una visualización del guio técnico en forma viñetas. La función es plasmar el diseño gráfico y sus contenidos.
+                .col-lg-auto
+                  figure
+                    img(src='@/assets/curso/tema1/img22.svg')(data-aos="fade-right")
+      .row.mb-5
+        .col-lg.mb-4.mb-lg-0
+          p.mb-4 Según la narrativa digital definida por Bernard Robin, 1993 pionero en el desarrollo de contenidos digitales y educativos de la Universidad de Houston desde 1993, la narrativa digital es, #[b “en su esencia más básica, la idea de combinar el arte de contar historias con una variedad de la tecnología digital multimedia, como imágenes, audio y vídeo”] #[span.txt-color2 (Robin, 2006, p 709)].
+          .cajon.color-secundario.p-4
+            p.mb-0 Así mismo, el carácter comunicativo de las historias se afianza al utilizar un recurso tecnológico que permita su difusión, #[b permitiendo o favoreciendo que esas historias unan, el entendimiento mutuo, la empatía y la comunicación].
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema1/img19.png')
+      .row.align-items-start
+        .col-auto
+          figure
+            img(src='@/assets/curso/tema1/img24.svg')(data-aos="fade-right")
+        .col
+          p.mb-0 #[b La comunicación ha cambiado y la modernidad trae consigo nuevas formas de comunicar, ya no se habla del emisor, transmisor y receptor, ahora se habla del medio que se usa para transmitir la información]. La oralidad ha ido ocupando un lugar en la memoria, pero la cultura sigue provocando cada día, que se busque más información y esa información está en los nuevos medios.
       
 </template>
 

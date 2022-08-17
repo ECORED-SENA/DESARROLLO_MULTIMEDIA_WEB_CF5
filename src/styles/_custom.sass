@@ -7,8 +7,18 @@
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
+    top: 65%
+    right: 70%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
     top: 0%
-    right: 50%
+    right: 79%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 9%
+    right: 52%
 
 
 @keyframes float1
@@ -99,7 +109,7 @@
 
 .tarjeta.color-primario
   background-color: #1565C0
-  p, h3, i
+  p, h5, i
     color: #FFF
 
 .bg-color1
@@ -123,17 +133,75 @@
 .bg-color6
   background-color: #F3F9FF
   border-radius: 15px
-  margin: 10px
+  margin: 0px
 
 .bg-color7
   background-color: #FFFAE7
   border-radius: 15px
-  margin: 10px
+  margin: 0px
 
 .bg-color8
   background-color: #E8E8E8
   border-radius: 15px
-  margin: 10px
+  margin: 0px
+
+.bg-color9
+  background-image: url(../assets/curso/tema1/img25.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-position-y: 120px
+
+.bg-color10
+  background: linear-gradient(180deg, rgba(255,255,255,1) 50%, rgba(255,250,231,1) 100%)
+  border-radius: 15px
+  
+.bg4
+  position: relative
+  .row, .row, .titulo, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: -3rem
+    left: -49px
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 6rem)
+    background-image: url("../assets/curso/tema1/img26.svg") 
+    background-repeat: no-repeat
+    background-size: cover
+
+.bg5
+  position: relative
+  .row, .row, .tabs, h4, .row, .row, .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: -3rem
+    left: -49px
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 6rem)
+    background-image: url("../assets/curso/tema1/img25.svg") 
+    background-repeat: no-repeat
+    background-size: cover
+
+.bg6
+  position: relative
+  .row
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 0rem
+    top: -3rem
+    left: -49px
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 4rem)
+    background-image: url("../assets/curso/tema2/img28.svg") 
+    background-repeat: no-repeat
+    background-size: cover
 
 .txt-color1
   color: #FB8C00
@@ -152,3 +220,18 @@
       left: -10px
       width: 60%
       height: 50%
+
+.dual-txt-deco
+  position: relative
+  &::after
+    content: ""
+    position: absolute
+    top: 38px
+    left: -25px
+    width: 26%
+    height: 35%
+    background-color: #F4F7FE
+    z-index: 0     
+.img-t
+  width: auto
+  height: auto  

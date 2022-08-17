@@ -9,10 +9,10 @@
     .row.align-items-center.mb-5
       .col-lg-auto
         figure
-          img(src='@/assets/curso/tema2/img1.svg')(data-aos="fade-right")
+          img(src='@/assets/curso/tema2/img1.svg')(data-aos="fade-right").mb-5
       .col-lg(data-aos="fade-left")
         p Primero que todo, es importante responder la siguiente pregunta:
-        p #[b ¿Qué es el #[i pitch?]]
+        h4 ¿Qué es el #[i pitch?]
         .row.align-items-start
           .col-auto
             figure
@@ -114,10 +114,10 @@
                 img(src='@/assets/curso/tema2/img6.svg')
     .row.justify-content-center
       .col-lg-10
-        .row.align-items-center
-          .col-lg-2.mb-4
+        .row.align-items-center.justify-content-center
+          .col-lg-2.mb-4(data-aos="fade-right") 
             figure
-              img(src='@/assets/curso/tema2/img7.svg').mx-auto(data-aos="fade-right")
+              img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
           .col-lg-10
             p(data-aos="fade-left").mb-0 De acuerdo a esta información, quedan plasmadas las tres posibilidades de cómo hacer una excelente sustentación al momento de salir al mercado y exponer la idea de negocio sea cual sea, en busca de posibles patrocinadores e inversionistas.
     Separador
@@ -139,7 +139,7 @@
     .row.align-items-center.mb-5
       .col-lg-auto
         figure
-          img(src='@/assets/curso/tema2/img10.svg')
+          img(src='@/assets/curso/tema2/img10.svg').mb-5
       .col-lg
         p.mb-4 La comunicación contempla signos, los cuales permiten transmitir información o un mensaje especifico, por lo general estos pueden ser de dos tipos:
         ul.lista-ul--color.lista-ul--separador.mb-4
@@ -171,14 +171,14 @@
           img(src='@/assets/curso/tema2/img12.svg')(data-aos="fade-left")
     .cajon.color-primario.p-4.mb-5(data-aos="fade-right")
       p.mb-0 Es muy importante que en el escenario de sustentación de un #[i pitch] el expositor pueda cambiar la entonación, y trasmita al público una emoción real de lo expuesto, con seguridad y experticia de tema, con un contexto profundo y asertivo para llevar a cabo una exposición de modelo de negocio.
-    .row.align-items-center.mb-5
-      .col-lg-auto.mb-4.mb-lg-0
+    .row.mb-4
+      .col-auto.bg-color2.p-2.ms-2
+        p.mb-0 #[b.text-white La comunicación no verbal]
+    .row.align-items-center.mb-5    
+      .col-lg-4.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img13.svg')(data-aos="fade-right")
       .col-lg
-        .row.mb-4
-          .col-auto.bg-color2.p-2.ms-2
-            p.mb-0 #[b.text-white La comunicación no verbal]
         p(data-aos="fade-right") Se puede argumentar que la comunicación no verbal es aquella que complementa a las palabras y que está determinada por la postura, la mirada, gesticulación, o la forma en que se mueven las manos, para tener una comunicación no verbal adecuada es fundamental saber dominar este tipo de acciones corporales y faciales con el fin de hacer amena y objetiva la sustentación del #[i pitch].
         .row.align-items-start
           .col-auto
@@ -188,7 +188,7 @@
             p(data-aos="fade-right").mb-0 #[b Teniendo claro que los tiempos de presentación para un #[i pitch] son muy cortos, lo cual hace necesario causar buena impresión al iniciar la presentación del modelo de negocio, partiendo de la seguridad y conocimiento del tema a tratar o en este caso a (vender), la actitud juega un papel importante en este espacio, sonreír, ser empático, tranquilo y una buena imagen personal dejara en el ambiente aprobación a lo expuesto, en la comunicación no verbal prima mucho lo que ve el receptor por encima de lo que escucha.]
     p.mb-5 #[b Muy importante a la hora de estar frente a un público objetivo, un jurado o los posibles inversores:]
     .row
-      .col-lg.p-4.bg-color6(data-aos="fade-right")
+      .col-lg.py-4.bg-color6(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema2/img14.svg', style="width:70px")
         p.mb-0 Mirada amable y segura (integrar a todo el quorum en el entorno que esté tratando en ese momento) se recomienda que la mirada sea para el frente cambiando constantemente el punto de referencia.
@@ -204,7 +204,10 @@
     #t_2_3
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 2.3 ¿Cómo se proyecta un #[i pitch] empleando técnicas verbal y no verbal?
-    p(data-aos="fade-right").mb-5 #[b Al momento de hacer una presentación de un proyecto se requiere tener la experticia en el tema a sustentar, no se trata solo de tener un buen proyecto, emprendimiento o idea de negocio, lo realmente importante es saber cómo comunicarlo de forma adecuada con el fin de obtener los recursos necesarios, atraer los inversores, gestionar patrocinadores, sostener clientes y potencializar el público objetivo y conseguir su confianza. Se puede ver el siguiente video para profundizar en el tema:]
+    .row
+      .col-lg-12.p-3(data-aos="fade-right")
+        .dual-txt-deco
+          p.py-5(style="position: relative; z-index: 1;") #[b Al momento de hacer una presentación de un proyecto se requiere tener la experticia en el tema a sustentar, no se trata solo de tener un buen proyecto, emprendimiento o idea de negocio, lo realmente importante es saber cómo comunicarlo de forma adecuada con el fin de obtener los recursos necesarios, atraer los inversores, gestionar patrocinadores, sostener clientes y potencializar el público objetivo y conseguir su confianza. Se puede ver el siguiente video para profundizar en el tema:]
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
@@ -212,20 +215,22 @@
     #t_2_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 2.4 Presentación, formatos y estructura de un #[i pitch]
-    .row.align-items-center.mb-5
-      .col-lg.mb-4.mb-lg-0
-        p(data-aos="fade-right") De acuerdo con la información suministrada anteriormente, donde se plasma la introducción de qué es un #[i pitch], tipos de #[i pitch], técnicas de presentación verbal y no verbal y cómo proyectar un #[i pitch] empleando las técnicas adecuadas de lenguaje; es momento de hacer énfasis en el paso a paso de cómo estructurar un #[i pitch], qué se requiere y cuál es el escenario adecuado para dicha presentación.
-        .row
-          .col-12.bg-color4.p-4
-            .row.align-items-start
-              .col-auto
-                figure
-                  img(src='@/assets/curso/tema1/img9.svg')(data-aos="fade-right")
-              .col
-                p.mb-0 Cabe recordar que un #[i pitch] estándar podría durar entre 3 y 5 minutos para lo cual se recomienda seguir los siguientes pasos:
-      .col-lg-auto
-        figure
-          img(src='@/assets/curso/tema2/img17.svg')(data-aos="fade-left")
+    .bg6
+      .row.align-items-center.mb-5
+        .col-lg-8.p-3(data-aos="fade-right")
+          .dual-txt-deco
+            p.py-5(style="position: relative; z-index: 1;") De acuerdo con la información suministrada anteriormente, donde se plasma la introducción de qué es un #[i pitch], tipos de #[i pitch], técnicas de presentación verbal y no verbal y cómo proyectar un #[i pitch] empleando las técnicas adecuadas de lenguaje; es momento de hacer énfasis en el paso a paso de cómo estructurar un #[i pitch], qué se requiere y cuál es el escenario adecuado para dicha presentación.
+          .row
+            .col-12.bg-color4.p-4
+              .row.align-items-start
+                .col-auto
+                  figure
+                    img(src='@/assets/curso/tema1/img9.svg')(data-aos="fade-right")
+                .col
+                  p.mb-0 Cabe recordar que un #[i pitch] estándar podría durar entre 3 y 5 minutos para lo cual se recomienda seguir los siguientes pasos:
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema2/img17.svg')(data-aos="fade-left")
     .row.justify-content-center
       .col-lg-10
         PasosA.color-acento-botones.mb-5(tipo="n")
@@ -307,8 +312,7 @@
       .col-lg-10
         .row.align-items-center
           .col-lg-2.mb-4
-            figure
-              img(src='@/assets/curso/tema2/img7.svg')(data-aos="fade-right")
+            img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
           .col
             p(data-aos="fade-left").mb-0 #[b Cabe resaltar que es muy importante que los inversionistas tengan claridad de la persona que está sustentando el #[i pitch], algo relativamente general y básico: nombre, apellido, oficio, qué hace la persona que sustenta, qué profesión tiene, qué conocimientos y experiencia tiene acerca de los temas planteados; esto sin duda generara credibilidad al momento de realizar el pitch y su presentación.]
     Separador
@@ -325,7 +329,7 @@
             .col
               .row.justify-content-between.align-items-center(data-aos="fade-right")
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 ¿Qué no debes hacer alimento de exponer un #[i pitch]?
+                  h5.mb-1 ¿Qué no debes hacer alimento de exponer un #[i pitch]?
                   p Estimado aprendiz, para profundizar sobre el tema puede consultar ella siguiente infografia.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo1.pdf')" target="_blank")
