@@ -59,42 +59,43 @@
                   img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
               .col-lg-10
                 p.mb-0(data-aos="fade-left")  #[b.txt-color1 Cabe mencionar que hoy en día con el avance tecnológico, son muchas las posibilidades de herramientas que se tienen a disposición para el desarrollo de una presentación multimedia]. #[b Para estas presentaciones normalmente se utilizan una serie de programas muy comunes, como por ejemplo las que se presentan en las figuras 2, 3 y 4]:
-    .row.align-items-center.justify-content-center(data-aos="fade-left").mb-5
-      .col-12.col-lg-4.mb-3
-        .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 2]. <em>Power Point</em>
-        div.p-5.bg-color10.shadow.h-100
-          figure.justify-center.mb-5
-            img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
-          h4.text-center POWER POINT
-      .col-12.col-lg-4.mb-2
-        .titulo-sexto.color-acento-contenido.mb-4
-          p.mb-0 #[b Figura 3]. Google Docs
-        div.p-4.bg-color10.shadow.h-100
-          figure.justify-center.mb-4
-            img(src='@/assets/curso/tema1/img9.png', alt='Texto que describa la imagen')
-          h4.text-center GOOGLE DOCS PRESENTATION
-      .col-12.col-lg-4.mb-2
-        .titulo-sexto.color-acento-contenido.mb-4.ps-5
-          p.mb-0 #[b Figura 4]. <em>Google Slides</em>
-        div.p-4.bg-color10.shadow.h-100
-          figure.justify-center.mb-5
-            img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
-          h4.text-center GOOGLE SLIDES
-    .row.align-items-center.mb-5
-      .col-auto
-        figure
-          img(src='@/assets/curso/tema1/img4.svg')
-      .col
-        p.mb-0 #[b ¡Sé proactivo en cada fase del aprendizaje!]
-    .bloque-texto-a.color-primario.p-4.p-md-4.mb-5 
-      .row.m-0.align-items-center.justify-content-between(data-aos="fade-right") 
-        .col-lg-auto.mb-4.mb-lg-0
+    .bg7
+      .row.align-items-center.justify-content-center(data-aos="fade-left").mb-5
+        .col-12.col-lg-4.mb-2
+          .titulo-sexto.color-acento-contenido.mb-4
+            p.mb-0 #[b Figura 2]. <em>Power Point</em>
+          div.p-1.bg-color10.shadow.h-100.mb-4
+            figure.justify-center.mb-5
+              img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
+            h4.text-center POWER POINT
+        .col-12.col-lg-4.mb-3
+          .titulo-sexto.color-acento-contenido.mb-4
+            p.mb-0 #[b Figura 3]. Google Docs
+          div.p-1.bg-color10.shadow.h-100.mb-4
+            figure.justify-center.mb-4
+              img(src='@/assets/curso/tema1/img9.png', alt='Texto que describa la imagen')
+            h4.text-center GOOGLE DOCS PRESENTATION
+        .col-12.col-lg-4.mb-5
+          .titulo-sexto.color-acento-contenido.mb-4.ps-5
+            p.mb-0 #[b Figura 4]. <em>Google Slides</em>
+          div.p-1.bg-color10.shadow.h-100
+            figure.justify-center.mb-5
+              img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
+            h4.text-center GOOGLE SLIDES
+      .row.align-items-center.mb-5
+        .col-auto
           figure
-            img(src='@/assets/curso/tema1/img5.svg', style="width:100px").m-auto
-        .col-lg
-          .bloque-texto-a__texto.p-4
-            p.mb-0 A continuación, #[b se describirá una serie de herramientas tecnológicas para realizar presentaciones], entre las más conocidas y utilizadas:
+            img(src='@/assets/curso/tema1/img4.svg')
+        .col
+          p.mb-0 #[b ¡Sé proactivo en cada fase del aprendizaje!]
+      .bloque-texto-a.color-primario.p-4.p-md-4.mb-5 
+        .row.m-0.align-items-center.justify-content-between(data-aos="fade-right") 
+          .col-lg-auto.mb-4.mb-lg-0
+            figure
+              img(src='@/assets/curso/tema1/img5.svg', style="width:100px").m-auto
+          .col-lg
+            .bloque-texto-a__texto.p-4
+              p.mb-0 A continuación, #[b se describirá una serie de herramientas tecnológicas para realizar presentaciones], entre las más conocidas y utilizadas:
     .tarjeta.tarjeta--azul.p-2.p-lg-5
       SlyderA(tipo="b")
         .row.align-items-center.m-1
@@ -257,7 +258,7 @@
     #t_1_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.4 Guión de multimedia
-    .bg5
+    .bg6
       .row.align-items-center.mb-5.bg-color9
         .col-lg-auto.mb-4.mb-lg-0
           figure
