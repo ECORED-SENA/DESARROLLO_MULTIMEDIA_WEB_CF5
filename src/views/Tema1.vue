@@ -64,21 +64,21 @@
         .col-12.col-lg-4.mb-2
           .titulo-sexto.color-acento-contenido.mb-4
             p.mb-0 #[b Figura 2]. <em>Power Point</em>
-          div.p-1.bg-color10.shadow.h-100.mb-4
+          div.p-1.bg-color10.shadow.mb-4
             figure.justify-center.mb-5
-              img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
+              img.img320(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
             h4.text-center POWER POINT
         .col-12.col-lg-4.mb-3
           .titulo-sexto.color-acento-contenido.mb-4
             p.mb-0 #[b Figura 3]. Google Docs
-          div.p-1.bg-color10.shadow.h-100.mb-4
+          div.p-1.bg-color10.shadow.mb-4
             figure.justify-center.mb-4
               img(src='@/assets/curso/tema1/img9.png', alt='Texto que describa la imagen')
             h4.text-center GOOGLE DOCS PRESENTATION
         .col-12.col-lg-4.mb-5
           .titulo-sexto.color-acento-contenido.mb-4.ps-5
             p.mb-0 #[b Figura 4]. <em>Google Slides</em>
-          div.p-1.bg-color10.shadow.h-100
+          div.p-1.bg-color10.shadow
             figure.justify-center.mb-5
               img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
             h4.text-center GOOGLE SLIDES
