@@ -66,7 +66,7 @@
             p.mb-0 #[b Figura 2]. <em>Power Point</em>
           div.p-1.bg-color10.shadow.mb-4
             figure.justify-center.mb-5
-              img.img320(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen').img320.pt-md-5.pt-4
             h4.text-center POWER POINT
         .col-12.col-lg-4.mb-3
           .titulo-sexto.color-acento-contenido.mb-4
