@@ -210,7 +210,9 @@
           p.py-5(style="position: relative; z-index: 1;") #[b Al momento de hacer una presentación de un proyecto se requiere tener la experticia en el tema a sustentar, no se trata solo de tener un buen proyecto, emprendimiento o idea de negocio, lo realmente importante es saber cómo comunicarlo de forma adecuada con el fin de obtener los recursos necesarios, atraer los inversores, gestionar patrocinadores, sostener clientes y potencializar el público objetivo y conseguir su confianza. Se puede ver el siguiente video para profundizar en el tema:]
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/767vTiYvnyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
+
+        
     Separador
     #t_2_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
