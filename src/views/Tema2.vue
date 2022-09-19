@@ -21,7 +21,7 @@
             p.mb-0 El #[i pitch] es una presentación resumida en la que se da a conocer la visión general de un negocio o proyecto a los posibles inversionistas, clientes potenciales, proveedores o socios, en estos espacios de interacción se hace referencia a un producto, modelo de negocio y las estrategias de como a través de este se puede monetizar, es una exposición de forma rápida, precisa y eficaz. A través del siguiente video se puede profundizar más al respecto:
     .cajon.color-acento-botones.p-4.mb-5(data-aos="fade-right")
       p.mb-0 El pitch puede utilizar tres tipos de formatos con una duración que puede ser de un minuto, es decir  un total entre tres y cinco minutos, es un escenario de corto tiempo en el cual la persona que lo sustenta debe convencer al receptor que el proyecto o idea de negocio que se está presentando tiene potencial, que una nueva oportunidad y que su fuerte es su factor diferencial en el mercado objetivo. 
-    p #[b Para sustentar un pitch en un primer momento se debe tener en cuenta lo siguiente:]
+    p.mb-5 #[b Para sustentar un pitch en un primer momento se debe tener en cuenta lo siguiente:]
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-acento-contenido3.h-100
@@ -34,7 +34,7 @@
           .p-4
             img(src='@/assets/curso/tema2/img30.svg', style="width: 100px").
           .p-4
-            p.mb-5 ¿Qué objetivos se desean plantear en la presentación el cómo y el para qué?
+            p ¿Qué objetivos se desean plantear en la presentación el cómo y el para qué?
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-acento-contenido5.h-100
           .p-4
