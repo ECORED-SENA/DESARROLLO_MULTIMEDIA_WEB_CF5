@@ -19,9 +19,37 @@
               img(src='@/assets/curso/tema2/img2.svg')
           .col
             p.mb-0 El #[i pitch] es una presentación resumida en la que se da a conocer la visión general de un negocio o proyecto a los posibles inversionistas, clientes potenciales, proveedores o socios, en estos espacios de interacción se hace referencia a un producto, modelo de negocio y las estrategias de como a través de este se puede monetizar, es una exposición de forma rápida, precisa y eficaz. A través del siguiente video se puede profundizar más al respecto:
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
+    .cajon.color-acento-botones.p-4.mb-5(data-aos="fade-right")
+      p.mb-0 El pitch puede utilizar tres tipos de formatos con una duración que puede ser de un minuto, es decir  un total entre tres y cinco minutos, es un escenario de corto tiempo en el cual la persona que lo sustenta debe convencer al receptor que el proyecto o idea de negocio que se está presentando tiene potencial, que una nueva oportunidad y que su fuerte es su factor diferencial en el mercado objetivo. 
+    p #[b Para sustentar un pitch en un primer momento se debe tener en cuenta lo siguiente:]
+    .row.mb-5
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta.color-acento-contenido3.h-100
+          .p-4
+            img(src='@/assets/curso/tema2/img29.svg', style="width: 100px").
+          .p-4
+            p ¿Quién es el público objetivo?
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta.color-acento-contenido4.h-100
+          .p-4
+            img(src='@/assets/curso/tema2/img30.svg', style="width: 100px").
+          .p-4
+            p.mb-5 ¿Qué objetivos se desean plantear en la presentación el cómo y el para qué?
+      .col-md-6.col-lg.mb-5.mb-lg-0
+        .tarjeta.color-acento-contenido5.h-100
+          .p-4
+            img(src='@/assets/curso/tema2/img31.svg', style="width: 100px").
+          .p-4
+            p ¿Cómo se va a desarrollar la presentación tiempos de intervención y el propósito de la idea de a desarrollar?
+    .row.justify-content-center
+      .col-lg-10
+        .row.align-items-center.justify-content-center
+          .col-lg-2.mb-4(data-aos="fade-right") 
+            figure
+              img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
+          .col-lg-10
+            p(data-aos="fade-left").mb-0 Ahora conozcamos a detalle cada aspecto a tener en cuenta para que podamos realizar un pitch exitoso en los siguientes temas.
+
     Separador
     #t_2_1
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
@@ -212,7 +240,6 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/767vTiYvnyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
 
-        
     Separador
     #t_2_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
