@@ -11,7 +11,7 @@
         figure
           img(src='@/assets/curso/tema1/img1.svg')(data-aos="fade-right")
       .col
-        p.mb-0 #[b Gracias a un buen uso de las herramientas tecnológicas y narrativas, se puede hacer una correcta construcción de cualquier discurso o mensaje que se desee transmitir]. A partir del conociendo de las herramientas, estructuras narrativas, tipos de textos que se pueden realizar y cómo construir un guion multimedia #[b.txt-color1 se tendrán las herramientas suficientes para poder avanzar en el objetivo de poder transmitir y vender las ideas y argumentos con éxito].
+        p.mb-0 #[b Gracias a un buen uso de las herramientas tecnológicas y narrativas, se puede hacer una correcta construcción de cualquier discurso o mensaje que se desee transmitir]. A partir del conocimiento de las herramientas, estructuras narrativas, tipos de textos que se pueden realizar y cómo construir un guion multimedia #[b.txt-color1 se tendrán las herramientas suficientes para poder avanzar en el objetivo de poder transmitir y vender las ideas y argumentos con éxito].
     Separador
     #t_1_1
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
@@ -63,25 +63,25 @@
       .row.align-items-center.justify-content-center(data-aos="fade-left").mb-5
         .col-12.col-lg-4.mb-2
           .titulo-sexto.color-acento-contenido.mb-4
-            p.mb-0 #[b Figura 2]. <em>Power Point</em>
+            p.mb-0 #[b Figura 2]. <em>PowerPoint</em>
           div.p-1.bg-color10.shadow.mb-4
             figure.justify-center.mb-5
               img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen').img320.pt-md-5.pt-4
-            h4.text-center POWER POINT
+            h4.text-center PowerPoint
         .col-12.col-lg-4.mb-3
           .titulo-sexto.color-acento-contenido.mb-4
             p.mb-0 #[b Figura 3]. Google Docs
           div.p-1.bg-color10.shadow.mb-4
             figure.justify-center.mb-4
               img(src='@/assets/curso/tema1/img9.png', alt='Texto que describa la imagen')
-            h4.text-center GOOGLE DOCS PRESENTATION
+            h4.text-center Google Docs Presentation
         .col-12.col-lg-4.mb-5
           .titulo-sexto.color-acento-contenido.mb-4.ps-5
             p.mb-0 #[b Figura 4]. <em>Google Slides</em>
           div.p-1.bg-color10.shadow
             figure.justify-center.mb-5
               img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
-            h4.text-center GOOGLE SLIDES
+            h4.text-center Google Slides
       .row.align-items-center.mb-5
         .col-auto
           figure
@@ -103,7 +103,7 @@
             figure
               img(src='@/assets/curso/tema1/img11.png').m-auto
           .col-lg.bg-color3
-            h5 <em>Power Point</em>
+            h5 <em>PowerPoint</em>
             p Es un programa que pertenece a <em>Microsoft Office</em>, es un muy versátil, con una interfaz amigable y fácil de utilizar, es compatible con varios formatos multimedia y contenidos de alta definición, y la función reproducir en segundo plano, da la posibilidad de reproducir música mientras se reproducen las diapositivas. 
             p En la actualidad <em>Microsoft</em> ofrece la versión más avanzada en el paquete office 365, que está basado en la nube.
             p (El almacenamiento en la nube funciona como una red de servidores de datos conectados que se utilizan colectivamente para compartir tus archivos a través de dispositivos y acceder a ellos).
@@ -119,7 +119,7 @@
             h5 <em>Google Slides</em>
             p Es una herramienta para hacer presentaciones que hace parte del paquete de <em>Google drive</em>, está basado en la <em>web</em>, se requiere crear una cuenta de registro en Google, una vez se realiza el registro se pueden acceder de forma gratuita al servicio. 
             p Es una excelente herramienta a la hora de trabajar en grupo con más compañeros desde la nube. Para esto basta con compartir el enlace o vincular los correos electrónicos y estar conectados para realizar el trabajo. 
-            p Tiene una variedad de plantillas y tipografías que funcionan perfectamente para brindar las mejores sensaciones de visuales. como herramienta está al nivel del PowerPoint de <em>Microsoft</em> o el <em>Keynote</em> de <em>Apple</em>.
+            p Tiene una variedad de plantillas y tipografías que funcionan perfectamente para brindar las mejores sensaciones de visuales. Como herramienta está al nivel del PowerPoint de <em>Microsoft</em> o el <em>Keynote</em> de <em>Apple</em>.
         .row.align-items-center.m-1
           .col-lg-auto.mb-4.mb-md-0
             figure
@@ -229,7 +229,7 @@
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
       h2 1.3 Textos narrativos
     .dual-txt-deco.mb-5
-      p(style="position: relative; z-index: 1;") Los textos narrativos son descripciones en las cuales se cuentan historias que ocurre en un lugares y tiempos concretos, estas historias pueden ser reales o ficticias. Existen diversos tipos de textos narrativos, en esta ocasión se conocerán los siguientes:
+      p(style="position: relative; z-index: 1;") Los textos narrativos son descripciones en las cuales se cuentan historias que ocurre en  lugares y tiempos concretos, estas historias pueden ser reales o ficticias. Existen diversos tipos de textos narrativos, en esta ocasión se conocerán los siguientes:
     .bg4
       .row.align-items-center.mb-5
         .col-lg-auto.mb-4.mb-lg-0
@@ -251,13 +251,13 @@
             .col
               p.mb-0 El género narrativo posee una estructura con características específicas, las cuales le dan determinación a la sucesión de los hechos. A continuación en la figura 7 se muestra cómo está organizada la estructura:
     .titulo-sexto.color-acento-contenido.mb-5
-      p.mb-0 #[b Figura 6]. Estructura narrativa
+      p.mb-0 #[b Figura 7]. Estructura narrativa
     figure
       img(src='@/assets/curso/tema1/img12.svg')
     Separador
     #t_1_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
-      h2 1.4 Guión de multimedia
+      h2 1.4 Guion de multimedia
     .bg6
       .row.align-items-center.mb-5.bg-color9
         .col-lg-auto.mb-4.mb-lg-0
@@ -331,7 +331,7 @@
               .row.align-items-center.m-1
                 .col-lg
                   h4 Storyboard
-                  p Es un elemento visual que ayuda a plasmar el boceto del guion, es una visualización del guio técnico en forma viñetas. La función es plasmar el diseño gráfico y sus contenidos.
+                  p Es un elemento visual que ayuda a plasmar el boceto del guion, es una visualización del guion técnico en forma viñetas. La función es plasmar el diseño gráfico y sus contenidos.
                 .col-lg-auto
                   figure
                     img(src='@/assets/curso/tema1/img22.svg')(data-aos="fade-right")

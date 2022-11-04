@@ -18,10 +18,10 @@
             figure
               img(src='@/assets/curso/tema2/img2.svg')
           .col
-            p.mb-0 El #[i pitch] es una presentación resumida en la que se da a conocer la visión general de un negocio o proyecto a los posibles inversionistas, clientes potenciales, proveedores o socios, en estos espacios de interacción se hace referencia a un producto, modelo de negocio y las estrategias de como a través de este se puede monetizar, es una exposición de forma rápida, precisa y eficaz. A través del siguiente video se puede profundizar más al respecto:
+            p.mb-0 El #[i pitch] es una presentación resumida en la que se da a conocer la visión general de un negocio o proyecto a los posibles inversionistas, clientes potenciales, proveedores o socios, en estos espacios de interacción se hace referencia a un producto, modelo de negocio y las estrategias de cómo a través de este se puede monetizar, es una exposición de forma rápida, precisa y eficaz. A través del siguiente video se puede profundizar más al respecto:
     .cajon.color-acento-botones.p-4.mb-5(data-aos="fade-right")
-      p.mb-0 El pitch puede utilizar tres tipos de formatos con una duración que puede ser de un minuto, es decir  un total entre tres y cinco minutos, es un escenario de corto tiempo en el cual la persona que lo sustenta debe convencer al receptor que el proyecto o idea de negocio que se está presentando tiene potencial, que una nueva oportunidad y que su fuerte es su factor diferencial en el mercado objetivo. 
-    p.mb-5 #[b Para sustentar un pitch en un primer momento se debe tener en cuenta lo siguiente:]
+      p.mb-0 El #[i pitch] puede utilizar tres tipos de formatos con una duración que puede ser de un minuto, es decir  un total entre tres y cinco minutos, es un escenario de corto tiempo en el cual la persona que lo sustenta debe convencer al receptor que el proyecto o idea de negocio que se está presentando tiene potencial, que una nueva oportunidad y que su fuerte es su factor diferencial en el mercado objetivo. 
+    p.mb-5 #[b Para sustentar un #[i pitch] en un primer momento se debe tener en cuenta lo siguiente:]
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-acento-contenido3.h-100
@@ -40,7 +40,7 @@
           .p-4
             img(src='@/assets/curso/tema2/img31.svg', style="width: 100px").
           .p-4
-            p ¿Cómo se va a desarrollar la presentación tiempos de intervención y el propósito de la idea de a desarrollar?
+            p ¿Cómo se va a desarrollar la presentación, tiempos de intervención y el propósito de la idea  a desarrollar?
     .row.justify-content-center
       .col-lg-10
         .row.align-items-center.justify-content-center
@@ -48,7 +48,7 @@
             figure
               img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
           .col-lg-10
-            p(data-aos="fade-left").mb-0 Ahora conozcamos a detalle cada aspecto a tener en cuenta para que podamos realizar un pitch exitoso en los siguientes temas.
+            p(data-aos="fade-left").mb-0 Ahora conozcamos a detalle cada aspecto a tener en cuenta para que podamos realizar un #[i pitch] exitoso en los siguientes temas.
 
     Separador
     #t_2_1
@@ -70,9 +70,9 @@
               figure
                 img(src='@/assets/curso/tema2/img3.svg')
             .col-lg
-              p Esta técnica se utiliza cuando se tiene que hacer una presentación de idea de negocio de forma rápida, y concisa ante un público objetivo, quorum o una serie de posibles inversores.
+              p Esta técnica se utiliza cuando se tiene que hacer una presentación de idea de negocio de forma rápida, y concisa ante un público objetivo, <em>quorum</em> o una serie de posibles inversores.
               .cajon.color-primario.p-4
-                p.mb-0 Si la sustentación de la idea de negocio se hace en un recinto cerrado con público, jurados, inversores y patrocinadores, si se recomienda crear una presentación con la cual el producto se venda de manera efectiva y atractiva, dejando claro que los tiempos no pueden ser superiores a 10 minutos.
+                p.mb-0 Si la sustentación de la idea de negocio se hace en un recinto cerrado con público, jurados, inversores y patrocinadores, sí se recomienda crear una presentación con la cual el producto se venda de manera efectiva y atractiva, dejando claro que los tiempos no pueden ser superiores a 10 minutos.
           .row
             .col-lg.mb-4.mb-lg-0
               p La característica principal de este #[i pitch] es que tiene una duración mínima de 3 a 5 minutos, por tal razón no es recomendable realizar una presentación visual, dependiendo del entorno en el cual se encuentre el emisor, es decir, si es en un espacio no formal se podrá hacer de forma explícita, breve y contundente por tal motivo es vital crear una pequeña guía, una estructura simple con palabras y acciones claves:
@@ -94,7 +94,7 @@
                 img(src='@/assets/curso/tema2/img4.svg')
       .row(titulo="<em>Pitch deck</em> o <em>pitch</em> para inversores")
         .col-12.p-4
-          p.mb-4 A diferencia del elevator #[i pitch], esta presentación está enfocada para cautivar y atraer inversionistas de negocio, dicho escenario contara con una duración máxima de 15 minutos, para esta estrategia el soporte visual es fundamental pues es aquí donde se puede plasmar una idea clara, llamativa y la cual se podrá usar en diversos escenarios, logrando captar la atención de posibles clientes.
+          p.mb-4 A diferencia del elevator #[i pitch], esta presentación está enfocada para cautivar y atraer inversionistas de negocio, dicho escenario contará con una duración máxima de 15 minutos, para esta estrategia el soporte visual es fundamental pues es aquí donde se puede plasmar una idea clara, llamativa y la cual se podrá usar en diversos escenarios, logrando captar la atención de posibles clientes.
           .row.align-items-center
             .col-lg-auto.mb-4.mb-lg-0
               figure
@@ -124,7 +124,7 @@
                 li 
                   i.fas.fa-pen-square(style="color:#FB8C00")
                   |
-                  p.mb-0 Tener en cuenta los objetivos empresariales del posible cliente.
+                  p.mb-0 Los objetivos empresariales del posible cliente.
                 li 
                   i.fas.fa-pen-square(style="color:#FB8C00")
                   |
@@ -154,13 +154,13 @@
       h2 2.2 Técnicas de presentación verbal y no verbal
     .row.align-items-center.mb-4
       .col-lg.mb-4.mb-lg-0
-        p(data-aos="fade-right") #[b Para elaborar una excelente propuesta de #[i pitch] es muy importe la comunicación que se desarrolle ante el público objetivo al cual se quiere llegar], es en este punto se abordaran las características principales del lenguaje verbal y no verbal y el cómo se planea y se plantea un #[i pitch] apropiado de acuerdo a lo que el emprendedor desea proyectar.
+        p(data-aos="fade-right") #[b Para elaborar una excelente propuesta de #[i pitch] es muy importe la comunicación que se desarrolle ante el público objetivo al cual se quiere llegar],  en este punto se abordarán las características principales del lenguaje verbal y no verbal y el cómo se planea y se plantea un #[i pitch] apropiado de acuerdo a lo que el emprendedor desea proyectar.
         .row.align-items-start
           .col-auto
             figure
               img(src='@/assets/curso/tema2/img8.svg')(data-aos="fade-left")
           .col
-            p.mb-0 #[b El saber expresarse con el exterior en el mundo actual es muy importante ya que la a partir de cómo se manifiesta un mensaje y el tipo de comunicación utilizada abre entornos a diferentes escenarios el cómo se transmite y se recibe información permite tener ideas claras de algún tipo de comunicación personal o en público.]
+            p.mb-0 #[b El saber expresarse con el exterior en el mundo actual es muy importante ya que a partir de cómo se manifiesta un mensaje y el tipo de comunicación utilizada abre entornos a diferentes escenarios, el cómo se transmite y se recibe información permite tener ideas claras de algún tipo de comunicación personal o en público.]
       .col-lg-auto
         figure
           img(src='@/assets/curso/tema2/img9.svg')(data-aos="fade-right")
@@ -169,7 +169,7 @@
         figure
           img(src='@/assets/curso/tema2/img10.svg').mb-5
       .col-lg
-        p.mb-4 La comunicación contempla signos, los cuales permiten transmitir información o un mensaje especifico, por lo general estos pueden ser de dos tipos:
+        p.mb-4 La comunicación contempla signos, los cuales permiten transmitir información o un mensaje específico, por lo general estos pueden ser de dos tipos:
         ul.lista-ul--color.lista-ul--separador.mb-4
           li 
             i.fas.fa-pen-square(style="color:#FB8C00")
@@ -193,7 +193,7 @@
               img(src='@/assets/curso/tema2/img11.svg')(data-aos="fade-right")
           .col
             p.mb-0 #[b Para el lenguaje verbal es importante tener claro que este dependerá del espacio en el que se desarrolló ya que no es lo mismo un aula de clase a un escenario deportivo, es decir qué tipo de comunicación es el adecuado de acuerdo del público al que esté dirigido el mensaje.]
-        p.mb-0 Parte importante de la comunicación verbal está en vocalizar y hablar a un ritmo tranquilo, adecuado y pausado, evitar el uso de muletillas y darles un manejo adecuado a los adverbios, si al momento de comunicar una idea o punto determinado no se vocaliza de manera adecuada, o en caso alguno de omitir información del tema que se está desarrollo, fácilmente se podrá perder el interés del público objetivo sobre tema tratado.
+        p.mb-0 Parte importante de la comunicación verbal está en vocalizar y hablar a un ritmo tranquilo, adecuado y pausado, evitar el uso de muletillas y darles un manejo adecuado a los adverbios, si al momento de comunicar una idea o punto determinado no se vocaliza de manera adecuada, o en caso de omitir información del tema que se está desarrollando, fácilmente se podrá perder el interés del público objetivo sobre tema tratado.
       .col-lg-auto
         figure
           img(src='@/assets/curso/tema2/img12.svg')(data-aos="fade-left")
@@ -213,13 +213,13 @@
             figure
               img(src='@/assets/curso/tema2/img11.svg')
           .col
-            p(data-aos="fade-right").mb-0 #[b Teniendo claro que los tiempos de presentación para un #[i pitch] son muy cortos, lo cual hace necesario causar buena impresión al iniciar la presentación del modelo de negocio, partiendo de la seguridad y conocimiento del tema a tratar o en este caso a (vender), la actitud juega un papel importante en este espacio, sonreír, ser empático, tranquilo y una buena imagen personal dejara en el ambiente aprobación a lo expuesto, en la comunicación no verbal prima mucho lo que ve el receptor por encima de lo que escucha.]
+            p(data-aos="fade-right").mb-0 #[b Teniendo claro que los tiempos de presentación para un #[i pitch] son muy cortos, lo cual hace necesario causar buena impresión al iniciar la presentación del modelo de negocio, partiendo de la seguridad y conocimiento del tema a tratar o en este caso a (vender), la actitud juega un papel importante en este espacio, sonreír, ser empático, tranquilo y una buena imagen personal dejará en el ambiente aprobación a lo expuesto, en la comunicación no verbal prima mucho lo que ve el receptor por encima de lo que escucha.]
     p.mb-5 #[b Muy importante a la hora de estar frente a un público objetivo, un jurado o los posibles inversores:]
     .row
       .col-lg.py-4.bg-color6(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema2/img14.svg', style="width:70px")
-        p.mb-0 Mirada amable y segura (integrar a todo el quorum en el entorno que esté tratando en ese momento) se recomienda que la mirada sea para el frente cambiando constantemente el punto de referencia.
+        p.mb-0 Mirada amable y segura (integrar a todo el <em>quorum</em> en el entorno que esté tratando en ese momento) se recomienda que la mirada sea para el frente, cambiando constantemente el punto de referencia.
       .col-lg.p-4.bg-color7(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema2/img15.svg', style="width:50px")
@@ -278,12 +278,12 @@
                   img(src='@/assets/curso/tema2/img19.svg')
               .col-lg
                 h4 Dejar claro el problema a solucionar
-                p Se debe argumentar cual es la necesidad que se ha encontrado en el mercado, es muy importante tener claro que dicho problema o necesidad valga la pena solucionar.
+                p Se debe argumentar cuál es la necesidad que se ha encontrado en el mercado, es muy importante tener claro que dicho problema o necesidad valga la pena solucionar.
           div
             .row.align-items-center.justify-content-end
               .col-lg.mb-4
                 h4 Plantear la solución
-                p Dejar claro y bien argumentado, como el producto ofertado puede satisfacer el requerimiento expuesto, de igual forma como la idea de negocio puede darle solución al problema antes planteado, con un enfoque de mejoramiento continuo a las necesidades y dificultades del inversor, cliente o patrocinador.
+                p Dejar claro y bien argumentado, cómo el producto ofertado puede satisfacer el requerimiento expuesto, de igual forma cómo la idea de negocio puede darle solución al problema antes planteado, con un enfoque de mejoramiento continuo a las necesidades y dificultades del inversor, cliente o patrocinador.
               .col-5.col-lg-auto
                 figure
                   img(src='@/assets/curso/tema2/img20.svg')
@@ -294,7 +294,7 @@
                   img(src='@/assets/curso/tema2/img21.svg')
               .col-lg
                 h4 Hablar del mercado objetivo
-                p Durante la exposición es importante que los inversores sientan que por parte del ponente se tiene pleno conocimiento del mercado total, mercado al cual se puede servir y el mercado que se puede conseguir, y como estos anualmente están en constante crecimiento, se puede hablar de cifras económicas si se tiene pleno conocimiento de ellas,  se recomienda tener un contexto claro en todo sentido haciendo referencia a la segmentación de los mercados al cual está dirigido el plan de negocio.
+                p Durante la exposición es importante que los inversores sientan que por parte del ponente se tiene pleno conocimiento del mercado total, mercado al cual se puede servir y el mercado que se puede conseguir, y cómo estos anualmente están en constante crecimiento, se puede hablar de cifras económicas si se tiene pleno conocimiento de ellas,  se recomienda tener un contexto claro en todo sentido haciendo referencia a la segmentación de los mercados al cual está dirigido el plan de negocio.
           div
             .row.align-items-center.justify-content-end
               .col-lg.mb-4
@@ -309,13 +309,13 @@
                 figure
                   img(src='@/assets/curso/tema2/img23.svg')
               .col-lg
-                h4 Evidenciar porque son diferentes a los competidores
-                p Exponer cuales son las cualidades de la idea de negocio, porque estas los encaminan a repuntar en el mercado a través de la alternativa expuesta, cuál es su potencial principal, que los hace diferente en un nicho de mercado especifico dando solución oportuna en el entorno.
+                h4 Evidenciar porqué son diferentes a los competidores
+                p Exponer cuáles son las cualidades de la idea de negocio, porqué estas los encaminan a repuntar en el mercado a través de la alternativa expuesta, cuál es su potencial principal, que los hace diferente en un nicho de mercado especifico dando solución oportuna en el entorno.
           div
             .row.align-items-center.justify-content-end
               .col-lg.mb-4
                 h4 Exponer el modelo de negocio
-                p Explicar cómo se gana dinero, retorno de la inversión, reinversión y precios del mercado y como se pueden captar clientes.
+                p Explicar cómo se gana dinero, retorno de la inversión, reinversión y precios del mercado y cómo se pueden captar clientes.
               .col-5.col-lg-auto
                 figure
                   img(src='@/assets/curso/tema2/img24.svg')
@@ -326,12 +326,12 @@
                   img(src='@/assets/curso/tema2/img25.svg')
               .col-lg
                 h4 Presentar el equipo de trabajo
-                p Es muy importante dejar en evidencia el equipo de trabajo que estará a cargo del desarrollo de la idea de negocio, especificar como a través de su experiencia son los indicados para asumir el reto y sacarlo adelante.
+                p Es muy importante dejar en evidencia el equipo de trabajo que estará a cargo del desarrollo de la idea de negocio, especificar cómo a través de su experiencia son los indicados para asumir el reto y sacarlo adelante.
           div
             .row.align-items-center.justify-content-end
               .col-lg.mb-4
                 h4 Contextualizar el estado actual del proyecto
-                p Dejar claro a los inversores en qué punto se encuentra el proyecto, prospectiva y que recursos económicos se requieren para lanzarse al mercado. (en este ítem es importante plasmar resumidamente datos financieros y proyecciones económicas que tipo de gastos se requiere y como se pueden solventar.)
+                p Dejar claro a los inversores en qué punto se encuentra el proyecto, prospectiva y qué recursos económicos se requieren para lanzarse al mercado. (en este ítem es importante plasmar resumidamente datos financieros y proyecciones económicas qué tipo de gastos se requiere y cómo se pueden solventar.)
               .col-5.col-lg-auto
                 figure
                   img(src='@/assets/curso/tema2/img26.svg')
@@ -343,7 +343,7 @@
           .col-lg-2.mb-4
             img.img-t(src='@/assets/curso/tema1/img27.png').mx.auto
           .col
-            p(data-aos="fade-left").mb-0 #[b Cabe resaltar que es muy importante que los inversionistas tengan claridad de la persona que está sustentando el #[i pitch], algo relativamente general y básico: nombre, apellido, oficio, qué hace la persona que sustenta, qué profesión tiene, qué conocimientos y experiencia tiene acerca de los temas planteados; esto sin duda generara credibilidad al momento de realizar el pitch y su presentación.]
+            p(data-aos="fade-left").mb-0 #[b Cabe resaltar que es muy importante que los inversionistas tengan claridad de la persona que está sustentando el #[i pitch], algo relativamente general y básico: nombre, apellido, oficio, qué hace la persona que sustenta, qué profesión tiene, qué conocimientos y experiencia tiene acerca de los temas planteados; esto sin duda generará credibilidad al momento de realizar el #[i pitch] y su presentación.]
     Separador
     #t_2_5
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
@@ -358,8 +358,8 @@
             .col
               .row.justify-content-between.align-items-center(data-aos="fade-right")
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 ¿Qué no debes hacer alimento de exponer un #[i pitch]?
-                  p Estimado aprendiz, para profundizar sobre el tema puede consultar ella siguiente infografia.
+                  h5.mb-1 ¿Qué no debes hacer al momento de exponer un #[i pitch]?
+                  p Estimado aprendiz, para profundizar sobre el tema puede consultar la siguiente infografia.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo1.pdf')" target="_blank")
                     span(style="color:#000 !important") Descargar pdf
