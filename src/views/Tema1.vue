@@ -119,7 +119,7 @@
             h5 <em>Google Slides</em>
             p Es una herramienta para hacer presentaciones que hace parte del paquete de <em>Google drive</em>, está basado en la <em>web</em>, se requiere crear una cuenta de registro en Google, una vez se realiza el registro se pueden acceder de forma gratuita al servicio. 
             p Es una excelente herramienta a la hora de trabajar en grupo con más compañeros desde la nube. Para esto basta con compartir el enlace o vincular los correos electrónicos y estar conectados para realizar el trabajo. 
-            p Tiene una variedad de plantillas y tipografías que funcionan perfectamente para brindar las mejores sensaciones de visuales. Como herramienta está al nivel del PowerPoint de <em>Microsoft</em> o el <em>Keynote</em> de <em>Apple</em>.
+            p Tiene una variedad de plantillas y tipografías que funcionan perfectamente para brindar las mejores sensaciones visuales. Como herramienta está al nivel del PowerPoint de <em>Microsoft</em> o el <em>Keynote</em> de <em>Apple</em>.
         .row.align-items-center.m-1
           .col-lg-auto.mb-4.mb-md-0
             figure

@@ -267,7 +267,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Angélica, A. (2020). Formato de <em>pitch deck</em>: las diapositivas que deben ser incluidas. ',
+        'Angélica, A. (2020). ¿Cuántas diapositivas debe tener un <em>pitch deck</em>? ',
       link: 'https://es.slidebean.com/blog/startups-pitch-deck-format',
     },
     {
@@ -292,11 +292,7 @@ export default {
         'Fernández, H. (s.f.). Elevator pitch: Qué es, cómo hacerlo, ejemplos y plantilla.',
       link: 'https://economiatic.com/elevator-pitch/',
     },
-    {
-      referencia:
-        '<em>Glogster</em>. (2021). Cómo funciona <em>Glogster</em> Vea nuestros usos principales, con sencillos pasos para crear su propio póster multimedia.',
-      link: 'https://edu.glogster.com/',
-    },
+
     {
       referencia:
         'Hernández, A. (2014). Narrativas transmediáticas en entornos digitales: la novela hipermedia Inanimate Alice y sus aplicaciones docentes. CIC. Cuadernos de Información y Comunicación. Vol. 19, enero-diciembre.',

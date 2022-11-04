@@ -18,7 +18,7 @@
             figure
               img(src='@/assets/curso/tema2/img2.svg')
           .col
-            p.mb-0 El #[i pitch] es una presentación resumida en la que se da a conocer la visión general de un negocio o proyecto a los posibles inversionistas, clientes potenciales, proveedores o socios, en estos espacios de interacción se hace referencia a un producto, modelo de negocio y las estrategias de cómo a través de este se puede monetizar, es una exposición de forma rápida, precisa y eficaz. A través del siguiente video se puede profundizar más al respecto:
+            p.mb-0 El #[i pitch] es una presentación resumida en la que se da a conocer la visión general de un negocio o proyecto a los posibles inversionistas, clientes potenciales, proveedores o socios, en estos espacios de interacción se hace referencia a un producto, modelo de negocio y las estrategias de cómo a través de este se puede monetizar, es una exposición de forma rápida, precisa y eficaz. 
     .cajon.color-acento-botones.p-4.mb-5(data-aos="fade-right")
       p.mb-0 El #[i pitch] puede utilizar tres tipos de formatos con una duración que puede ser de un minuto, es decir  un total entre tres y cinco minutos, es un escenario de corto tiempo en el cual la persona que lo sustenta debe convencer al receptor que el proyecto o idea de negocio que se está presentando tiene potencial, que una nueva oportunidad y que su fuerte es su factor diferencial en el mercado objetivo. 
     p.mb-5 #[b Para sustentar un #[i pitch] en un primer momento se debe tener en cuenta lo siguiente:]
@@ -239,7 +239,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/767vTiYvnyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
-
+        
     Separador
     #t_2_4
     .titulo-segundo.color-acento-botones(data-aos="fade-right") 
