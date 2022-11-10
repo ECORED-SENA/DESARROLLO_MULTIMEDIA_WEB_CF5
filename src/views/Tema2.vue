@@ -193,7 +193,7 @@
               img(src='@/assets/curso/tema2/img11.svg')(data-aos="fade-right")
           .col
             p.mb-0 #[b Para el lenguaje verbal es importante tener claro que este dependerá del espacio en el que se desarrolló ya que no es lo mismo un aula de clase a un escenario deportivo, es decir qué tipo de comunicación es el adecuado de acuerdo del público al que esté dirigido el mensaje.]
-        p.mb-0 Parte importante de la comunicación verbal está en vocalizar y hablar a un ritmo tranquilo, adecuado y pausado, evitar el uso de muletillas y darles un manejo adecuado a los adverbios, si al momento de comunicar una idea o punto determinado no se vocaliza de manera adecuada, o en caso de omitir información del tema que se está desarrollando, fácilmente se podrá perder el interés del público objetivo sobre tema tratado.
+        p.mb-0 Parte importante de la comunicación verbal está en vocalizar y hablar a un ritmo tranquilo, adecuado y pausado, evitar el uso de muletillas y darles un manejo adecuado a los adverbios, si al momento de comunicar una idea o punto determinado no se vocaliza de manera adecuada, o en caso de omitir información del tema que se está desarrollando, fácilmente se podrá perder el interés del público objetivo sobre el tema tratado.
       .col-lg-auto
         figure
           img(src='@/assets/curso/tema2/img12.svg')(data-aos="fade-left")
@@ -238,7 +238,7 @@
           p.py-5(style="position: relative; z-index: 1;") #[b Al momento de hacer una presentación de un proyecto se requiere tener la experticia en el tema a sustentar, no se trata solo de tener un buen proyecto, emprendimiento o idea de negocio, lo realmente importante es saber cómo comunicarlo de forma adecuada con el fin de obtener los recursos necesarios, atraer los inversores, gestionar patrocinadores, sostener clientes y potencializar el público objetivo y conseguir su confianza. Se puede ver el siguiente video para profundizar en el tema:]
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/767vTiYvnyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/v5gmhfZ7vio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)(data-aos="fade-right")
         
     Separador
     #t_2_4
@@ -309,8 +309,8 @@
                 figure
                   img(src='@/assets/curso/tema2/img23.svg')
               .col-lg
-                h4 Evidenciar porqué son diferentes a los competidores
-                p Exponer cuáles son las cualidades de la idea de negocio, porqué estas los encaminan a repuntar en el mercado a través de la alternativa expuesta, cuál es su potencial principal, que los hace diferente en un nicho de mercado especifico dando solución oportuna en el entorno.
+                h4 Evidenciar por qué son diferentes a los competidores
+                p Exponer cuáles son las cualidades de la idea de negocio, por qué estas los encaminan a repuntar en el mercado a través de la alternativa expuesta, cuál es su potencial principal, que los hace diferente en un nicho de mercado especifico dando solución oportuna en el entorno.
           div
             .row.align-items-center.justify-content-end
               .col-lg.mb-4
