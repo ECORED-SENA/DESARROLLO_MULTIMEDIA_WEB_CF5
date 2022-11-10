@@ -249,9 +249,9 @@
               figure
                 img(src='@/assets/curso/tema1/img11.svg')
             .col
-              p.mb-0 El género narrativo posee una estructura con características específicas, las cuales le dan determinación a la sucesión de los hechos. A continuación en la figura 7 se muestra cómo está organizada la estructura:
+              p.mb-0 El género narrativo posee una estructura con características específicas, las cuales le dan determinación a la sucesión de los hechos. A continuación en la figura 6 se muestra cómo está organizada la estructura:
     .titulo-sexto.color-acento-contenido.mb-5
-      p.mb-0 #[b Figura 7]. Estructura narrativa
+      p.mb-0 #[b Figura 6]. Estructura narrativa
     figure
       img(src='@/assets/curso/tema1/img12.svg')
     Separador
